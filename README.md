@@ -2,7 +2,7 @@
 
 ### 😊 welcome my git_hub
 
-> python, html, css
+> python, html, css, django
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goeom77&show_icons=true&theme=tokyonight)
