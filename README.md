@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=300&section=header&text=goeom&fontSize=70)
 
 
+## Connect With Me
+<a href = "https://electricjob.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
+<br/>
+<br/>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
