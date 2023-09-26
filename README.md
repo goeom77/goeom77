@@ -5,8 +5,7 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
+![HyungGyu's github stats](https://github-readme-stats.vercel.app/api?username=goeom77&show_icons=true&theme=tokyonight)
 <br/>  
 
 
