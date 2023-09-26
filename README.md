@@ -5,7 +5,7 @@
 
 
 ## Github Stats  
-![HyungGyu's github stats](https://github-readme-stats.vercel.app/api?username=goeom77&show_icons=true&theme=tokyonight)
+![HyungGyu's github stats](https://github-readme-stats.vercel.app/api?username=goeom77&show_icons=true&theme=tokyonight)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=didckdals)](https://solved.ac/7eom14/)
 <br/>  
 
 
