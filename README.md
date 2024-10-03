@@ -1,9 +1,3 @@
-## Certificate
-
-정보처리기사
-네트워크관리사
-SQLD
-
 ## Connect with me  
 
 <a href="https://electricjob.tistory.com/" target="_blank">
@@ -15,6 +9,14 @@ SQLD
 <br/> 
 <br/> 
 <br/>
+
+## Certificate
+
+정보처리기사
+<br/> 
+네트워크관리사
+<br/> 
+SQLD
 
 ## Github Stats  
 ![HyungGyu's github stats](https://github-readme-stats.vercel.app/api?username=goeom77&show_icons=true&theme=tokyonight)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=7eom14)](https://solved.ac/7eom14/)
