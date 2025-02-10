@@ -1,4 +1,4 @@
-## Connect with me  
+## Connect with me  (blog)
 
 <a href="https://electricjob.tistory.com/" target="_blank">
   <img src=https://img.shields.io/badge/tistory-%2324292e.svg?&style=for-the-badge&logo=tistory&logoColor=white alt=blog style="margin-bottom: 5px;" />
