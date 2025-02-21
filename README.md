@@ -10,17 +10,12 @@
   <img src=https://img.shields.io/badge/githubblog-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=githubblog style="margin-bottom: 5px;" />
 </a>  
 
+블로그를 이전 중에 있습니다. 깃허브 블로그로 놀러오세요!
+
 <br/> 
 <br/> 
 <br/>
 
-## Certificate
-
-정보처리기사
-<br/> 
-네트워크관리사
-<br/> 
-SQLD
 
 ## Github Stats  
 ![HyungGyu's github stats](https://github-readme-stats.vercel.app/api?username=goeom77&show_icons=true&theme=tokyonight)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=7eom14)](https://solved.ac/7eom14/)
