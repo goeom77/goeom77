@@ -6,11 +6,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/%ED%98%95%EA%B7%9C-%EC%97%84-7b7ba2285/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<a href="https://goeom77.github.io/" target="_blank">
-  <img src=https://img.shields.io/badge/githubblog-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=githubblog style="margin-bottom: 5px;" />
-</a>  
 
-블로그를 이전 중에 있습니다. 깃허브 블로그로 놀러오세요!
 
 <br/> 
 <br/> 
