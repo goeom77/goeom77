@@ -5,7 +5,10 @@
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/%ED%98%95%EA%B7%9C-%EC%97%84-7b7ba2285/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a> 
+<a href="https://colossal-whip-d19.notion.site/WhoAmI-cc85155cd8bb49ab92238a497116935e?source=copy_link" target="_blank">
+  <img src=https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
 
 
 <br/> 
